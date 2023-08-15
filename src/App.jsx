@@ -11,7 +11,7 @@ import Register from "./pages/Register";
 const App = () => {
   const router = createBrowserRouter([
     {
-      path: "/home",
+      path: "/",
       element: <Home />,
     },
     {
