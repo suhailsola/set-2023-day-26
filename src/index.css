@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-mono;
+  @apply bg-[#F7FAFC];
+}
+
+h2 {
+  @apply text-4xl;
+}
+
+p {
+  @apply text-gray-700;
+}
